@@ -17,3 +17,13 @@ CONSIGNES RESPECTEES :
 
 -Animation entre 2 écrans et animation lorsque l'on scroll à travers la liste.
 
+FONCTIONNALITES :
+
+Ecran d'acceuil :
+
+![SCREEN RATP PAGE ACCEUIL](https://github.com/nicolastheon/RATPApplication/blob/master/ScreenREADME/SCREEN%20RATP%20PAGE%20ACCEUIL.PNG)
+
+Exemple d'écran :
+
+![Screen ratp stations](https://github.com/nicolastheon/RATPApplication/blob/master/ScreenREADME/Screen%20ratp%20stations.PNG)
+
